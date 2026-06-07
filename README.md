@@ -63,7 +63,7 @@ python main.py
 
 Abdul Rehman
 
-📧 Email: "memonabdulrehman456@gmail.com"
+📧 Email: memonabdulrehman456@gmail.com
 
 🔗 LinkedIn:
 
